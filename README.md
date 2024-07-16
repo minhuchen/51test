@@ -9,4 +9,14 @@ Code size<=2K, built by Keil C251 community free edition。
 Hope this project be helpful.
 
 --JustDoIt, 2024-07
+
+<br/>
 <img src="https://github.com/minhuchen/51test/blob/main/board.jpg?raw=true" />
+
+
+<br/>
+<img src="https://github.com/minhuchen/51test/blob/main/p1.jpg?raw=true" />
+
+
+<br/>
+<img src="https://github.com/minhuchen/51test/blob/main/p2.jpg?raw=true" />
